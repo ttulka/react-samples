@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+a {
+  color: inherit;
+}
+
+nav {
+  font-size: 2rem;
+}
+nav a {
+  cursor: pointer;
+  margin: 0 .5rem;
+}
+
+.content {
+  margin: 5rem 1rem;
+}
+
+.footer {
+  background-color: lightgrey;
+  padding: 1rem;
+}

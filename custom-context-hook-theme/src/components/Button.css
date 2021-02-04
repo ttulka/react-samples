@@ -1,0 +1,14 @@
+button {
+    display: inline-block;
+    padding: 1rem 2rem;
+    margin: 0.5rem;
+}
+
+button.light {
+    background-color: lightblue;
+    color: darkblue;
+}
+button.dark {
+    background-color: darkblue;
+    color: lightblue;
+}
